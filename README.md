@@ -1,4 +1,4 @@
-MongoDB Atlas Peering using and Existing Project
+MongoDB Atlas Peering using an Existing Atlas Project
 ===========================================
 
 Most of the Terraform Network Peering examples do not utilize an existing Atlas Project (Group).  This is an important detail, as there is an existing Network Container.  These containers exist within a Project/Group and are established by region
